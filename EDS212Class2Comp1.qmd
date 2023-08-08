@@ -19,7 +19,7 @@ eval(df_dx)
 
 ## Practice
 
-Find the slope of g(z) = 2z^3^  - 10.5z\^2 +4.1 at z = 3.6
+Find the slope of g(z) = 2z^3^ - 10.5z\^2 +4.1 at z = 3.6
 
 ```{r}
 gz = expression(2*(z^3) - 10.5*(z ^ 2) + 4.1)
